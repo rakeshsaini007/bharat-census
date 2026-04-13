@@ -25,18 +25,18 @@ export function CensusTable({ records }: CensusTableProps) {
         <Table>
           <TableHeader>
             <TableRow className="bg-muted/50">
-              <TableHead className="w-[80px]">Line</TableHead>
-              <TableHead className="min-w-[150px]">Head of Household</TableHead>
-              <TableHead className="min-w-[100px]">Building</TableHead>
-              <TableHead className="min-w-[100px]">House No.</TableHead>
-              <TableHead className="min-w-[100px]">Persons</TableHead>
-              <TableHead className="min-w-[100px]">Sex</TableHead>
-              <TableHead className="min-w-[120px]">Ownership</TableHead>
-              <TableHead className="min-w-[150px]">Use</TableHead>
-              <TableHead className="min-w-[150px]">Fuel</TableHead>
-              <TableHead className="min-w-[200px]">Assets</TableHead>
-              <TableHead className="min-w-[150px]">Mobile</TableHead>
-              <TableHead className="min-w-[180px]">Last Updated</TableHead>
+              <TableHead className="w-[80px]">लाइन (Line)</TableHead>
+              <TableHead className="min-w-[150px]">परिवार का मुखिया (Head)</TableHead>
+              <TableHead className="min-w-[100px]">भवन (Bldg)</TableHead>
+              <TableHead className="min-w-[100px]">मकान (House)</TableHead>
+              <TableHead className="min-w-[100px]">व्यक्ति (Persons)</TableHead>
+              <TableHead className="min-w-[100px]">लिंग (Sex)</TableHead>
+              <TableHead className="min-w-[120px]">स्वामित्व (Own)</TableHead>
+              <TableHead className="min-w-[150px]">उपयोग (Use)</TableHead>
+              <TableHead className="min-w-[150px]">ईंधन (Fuel)</TableHead>
+              <TableHead className="min-w-[200px]">संपत्ति (Assets)</TableHead>
+              <TableHead className="min-w-[150px]">मोबाइल (Mobile)</TableHead>
+              <TableHead className="min-w-[180px]">अंतिम अपडेट (Updated)</TableHead>
             </TableRow>
           </TableHeader>
           <TableBody>

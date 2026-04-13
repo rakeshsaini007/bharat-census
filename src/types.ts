@@ -38,36 +38,36 @@ export type CensusRecord = {
 };
 
 export const MATERIAL_OPTIONS = [
-  'Mud/Unburnt Brick',
-  'Wood/Bamboo',
-  'Stone',
-  'G.I./Metal/Asbestos Sheets',
-  'Burnt Brick',
-  'Concrete',
-  'Other'
+  'मिट्टी/कच्ची ईंट (Mud/Unburnt Brick)',
+  'लकड़ी/बांस (Wood/Bamboo)',
+  'पत्थर (Stone)',
+  'जी.आई./धातु/एस्बेस्टस चादरें (G.I./Metal/Asbestos Sheets)',
+  'पक्की ईंट (Burnt Brick)',
+  'कंक्रीट (Concrete)',
+  'अन्य (Other)'
 ];
 
 export const HOUSE_USE_OPTIONS = [
-  'Residence',
-  'Residence-cum-other use',
-  'Shop/Office',
-  'School/College',
-  'Hotel/Lodge/Guest House',
-  'Hospital/Dispensary',
-  'Factory/Workshop/Workshed',
-  'Place of Worship',
-  'Other non-residential',
-  'Vacant'
+  'आवास (Residence)',
+  'आवास-सह-अन्य उपयोग (Residence-cum-other use)',
+  'दुकान/कार्यालय (Shop/Office)',
+  'स्कूल/कॉलेज (School/College)',
+  'होटल/लॉज/गेस्ट हाउस (Hotel/Lodge/Guest House)',
+  'अस्पताल/डिस्पेंसरी (Hospital/Dispensary)',
+  'फैक्ट्री/कार्यशाला (Factory/Workshop/Workshed)',
+  'पूजा स्थल (Place of Worship)',
+  'अन्य गैर-आवासीय (Other non-residential)',
+  'खाली (Vacant)'
 ];
 
 export const FUEL_OPTIONS = [
-  'Firewood',
-  'Crop Residue',
-  'Cowdung Cake',
-  'Coal/Lignite/Charcoal',
-  'Kerosene',
-  'LPG/PNG',
-  'Electricity',
-  'Biogas',
-  'Other'
+  'लकड़ी (Firewood)',
+  'फसल अवशेष (Crop Residue)',
+  'उपले (Cowdung Cake)',
+  'कोयला/लिग्नाइट/चारकोल (Coal/Lignite/Charcoal)',
+  'मिट्टी का तेल (Kerosene)',
+  'एलपीजी/पीएनजी (LPG/PNG)',
+  'बिजली (Electricity)',
+  'बायोगैस (Biogas)',
+  'अन्य (Other)'
 ];

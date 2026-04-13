@@ -8,9 +8,9 @@ export function CensusHeader() {
           <Landmark className="h-6 w-6" />
         </div>
         <div>
-          <h1 className="text-xl font-bold tracking-tight">Bharat Census 2027</h1>
+          <h1 className="text-xl font-bold tracking-tight">भारत की जनगणना 2027 (Bharat Census)</h1>
           <p className="text-xs text-muted-foreground uppercase tracking-widest font-medium">
-            Houselisting and Housing Census | जनगणना और मकान सूचीकरण
+            मकान सूचीकरण एवं मकान गणना (Houselisting and Housing Census)
           </p>
         </div>
       </div>
